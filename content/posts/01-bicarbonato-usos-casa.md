@@ -1,6 +1,6 @@
 ---
 title: "15 Usos do Bicarbonato de Sodio que Voce Nao Conhecia"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-03-28T14:03:29+00:00
 draft: false
 tags: ["bicarbonato", "limpeza", "economia"]
 description: "15 Usos do Bicarbonato de Sodio que Voce Nao Conhecia"
