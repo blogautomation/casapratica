@@ -1,6 +1,6 @@
 ---
 title: "Como Eliminar os 7 Piores Cheiros da Casa"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-03-30T15:56:21+00:00
 draft: false
 tags: ["cheiros", "limpeza", "casa"]
 description: "Como Eliminar os 7 Piores Cheiros da Casa"
