@@ -1,6 +1,6 @@
 ---
 title: "8 Plantas que Purificam o Ar da Sua Casa"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-03-31T15:53:58+00:00
 draft: false
 tags: ["plantas", "ar", "saude"]
 description: "8 Plantas que Purificam o Ar da Sua Casa"
