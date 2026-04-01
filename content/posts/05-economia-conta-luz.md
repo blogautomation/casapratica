@@ -1,6 +1,6 @@
 ---
 title: "10 Dicas para Reduzir a Conta de Luz pela Metade"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-01T15:58:38+00:00
 draft: false
 tags: ["economia", "luz", "dicas"]
 description: "10 Dicas para Reduzir a Conta de Luz pela Metade"
