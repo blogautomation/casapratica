@@ -1,6 +1,6 @@
 ---
 title: "12 Usos Incriveis do Vinagre na Limpeza da Casa"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-02T15:38:10+00:00
 draft: false
 tags: ["vinagre", "limpeza", "economia"]
 description: "12 Usos Incriveis do Vinagre na Limpeza da Casa"
