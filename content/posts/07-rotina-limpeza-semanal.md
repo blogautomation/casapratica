@@ -1,6 +1,6 @@
 ---
 title: "Rotina de Limpeza Semanal: Casa Sempre Limpa em 20 Minutos por Dia"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-03T14:28:09+00:00
 draft: false
 tags: ["rotina", "limpeza", "organizacao"]
 description: "Rotina de Limpeza Semanal: Casa Sempre Limpa em 20 Minutos por Dia"
