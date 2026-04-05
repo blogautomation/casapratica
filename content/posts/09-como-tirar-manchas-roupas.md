@@ -1,6 +1,6 @@
 ---
 title: "Guia Definitivo: Como Tirar Qualquer Mancha de Roupa"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-05T14:05:32+00:00
 draft: false
 tags: ["manchas", "roupas", "limpeza"]
 description: "Guia Definitivo: Como Tirar Qualquer Mancha de Roupa"
