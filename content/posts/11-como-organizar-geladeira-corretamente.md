@@ -1,6 +1,6 @@
 ---
 title: "Como Organizar a Geladeira Corretamente Para Alimentos Durarem Mais"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-07T16:15:19+00:00
 draft: false
 tags: ["geladeira", "organizacao", "alimentos", "cozinha"]
 description: "Como Organizar a Geladeira Corretamente Para Alimentos Durarem Mais"
