@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["roupas", "organizacao", "armario", "espaco"]
 description: "12 Truques Para Guardar Roupas Que Economizam Muito Espaco no Armario"
+
+cover:
+  image: "https://images.pexels.com/photos/36729922/pexels-photo-36729922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "12 Truques Para Guardar Roupas Que Economizam Muito Espaco no Armario"
+  hidden: false
 ---
 
 Armario cheio e uma queixa universal. Mas na maioria dos casos o problema nao e falta de espaco, e forma de guardar. Com tecnicas simples de dobradura e organizacao, voce pode dobrar a capacidade do seu armario sem comprar nada.
