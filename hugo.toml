@@ -18,6 +18,11 @@ theme = "PaperMod"
   Title = "Casa Pratica"
   Content = "Dicas de limpeza, organizacao e truques domesticos para manter sua casa em ordem gastando pouco."
 
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
