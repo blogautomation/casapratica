@@ -5,7 +5,7 @@ draft: false
 tags: ["manchas", "roupas", "limpeza"]
 description: "Guia completo com solucoes caseiras para remover os tipos mais comuns de manchas de roupas sem danificar os tecidos"
 cover:
-  image: "https://images.pexels.com/photos/19627232/pexels-photo-19627232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/5591576/pexels-photo-5591576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Tirar Manchas de Roupas"
   hidden: false
 ---
