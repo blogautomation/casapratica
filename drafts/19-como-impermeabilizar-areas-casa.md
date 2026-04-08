@@ -6,7 +6,7 @@ tags: ["impermeabilizacao", "infiltracao", "manutencao", "casa"]
 description: "Como Impermeabilizar Areas da Casa e Evitar Infiltracoes"
 
 cover:
-  image: "https://images.pexels.com/photos/36870513/pexels-photo-36870513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/6764270/pexels-photo-6764270.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Impermeabilizar Areas da Casa e Evitar Infiltracoes"
   hidden: false
 ---
