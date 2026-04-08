@@ -6,7 +6,7 @@ tags: ["bicarbonato", "limpeza", "economia"]
 description: "15 Usos do Bicarbonato de Sodio que Voce Nao Conhecia"
 
 cover:
-  image: "https://images.pexels.com/photos/15502140/pexels-photo-15502140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/6957827/pexels-photo-6957827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "15 Usos do Bicarbonato de Sodio que Voce Nao Conhecia"
   hidden: false
 ---
