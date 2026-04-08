@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["pintura", "paredes", "reforma", "faca voce mesmo"]
 description: "Como Pintar Uma Parede Sozinho: Guia Completo Para Resultado Profissional"
+
+cover:
+  image: "https://images.pexels.com/photos/33716426/pexels-photo-33716426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Pintar Uma Parede Sozinho: Guia Completo Para Resultado Profissional"
+  hidden: false
 ---
 
 Pintar uma parede e o projeto faca-voce-mesmo mais popular que existe. Com tecnica correta e preparacao adequada, qualquer pessoa consegue resultado que parece profissional. O segredo esta mais na preparacao do que na pintura em si.
