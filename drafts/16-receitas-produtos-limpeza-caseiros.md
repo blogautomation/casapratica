@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["limpeza", "caseiro", "economia", "sustentavel"]
 description: "5 Receitas de Produtos de Limpeza Caseiros Que Funcionam de Verdade"
+
+cover:
+  image: "https://images.pexels.com/photos/28314398/pexels-photo-28314398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "5 Receitas de Produtos de Limpeza Caseiros Que Funcionam de Verdade"
+  hidden: false
 ---
 
 Produtos de limpeza industrializados custam caro e muitos contem quimicos agressivos. Com ingredientes simples que voce provavelmente ja tem em casa, da para fazer produtos tao eficientes quanto os comprados, gastando uma fracao do preco.
