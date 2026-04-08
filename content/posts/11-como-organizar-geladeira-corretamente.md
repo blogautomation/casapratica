@@ -5,7 +5,7 @@ draft: false
 tags: ["geladeira", "organizacao", "alimentos", "cozinha"]
 description: "Aprenda a organizar sua geladeira da forma correta para conservar alimentos por mais tempo e evitar desperdicio"
 cover:
-  image: "https://images.pexels.com/photos/34151117/pexels-photo-34151117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/35594805/pexels-photo-35594805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Organizar a Geladeira Corretamente"
   hidden: false
 ---
