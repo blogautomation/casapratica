@@ -6,7 +6,7 @@ tags: ["decoracao", "economia", "casa"]
 description: "Como Decorar Sua Casa Gastando Quase Nada"
 
 cover:
-  image: "https://images.pexels.com/photos/34908747/pexels-photo-34908747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/33607763/pexels-photo-33607763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Decorar Sua Casa Gastando Quase Nada"
   hidden: false
 ---
