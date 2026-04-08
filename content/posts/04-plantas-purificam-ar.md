@@ -4,6 +4,11 @@ date: 2026-03-31T15:53:58+00:00
 draft: false
 tags: ["plantas", "ar", "saude"]
 description: "8 Plantas que Purificam o Ar da Sua Casa"
+
+cover:
+  image: "https://images.pexels.com/photos/33607763/pexels-photo-33607763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "8 Plantas que Purificam o Ar da Sua Casa"
+  hidden: false
 ---
 
 A NASA fez um estudo mostrando que certas plantas removem toxinas do ar. Veja as 8 melhores para ter em casa.
