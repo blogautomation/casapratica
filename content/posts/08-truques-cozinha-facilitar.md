@@ -4,6 +4,11 @@ date: 2026-04-04T14:03:40+00:00
 draft: false
 tags: ["cozinha", "truques", "dicas"]
 description: "10 Truques de Cozinha que Facilitam Sua Vida"
+
+cover:
+  image: "https://images.pexels.com/photos/1772482/pexels-photo-1772482.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "10 Truques de Cozinha que Facilitam Sua Vida"
+  hidden: false
 ---
 
 Esses truques simples vao economizar tempo e dinheiro na cozinha.
