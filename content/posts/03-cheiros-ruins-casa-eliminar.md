@@ -4,6 +4,11 @@ date: 2026-03-30T15:56:21+00:00
 draft: false
 tags: ["cheiros", "limpeza", "casa"]
 description: "Como Eliminar os 7 Piores Cheiros da Casa"
+
+cover:
+  image: "https://images.pexels.com/photos/34297389/pexels-photo-34297389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Eliminar os 7 Piores Cheiros da Casa"
+  hidden: false
 ---
 
 Cada mau cheiro tem uma solucao especifica. Identifique o problema e resolva de vez.
