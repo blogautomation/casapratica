@@ -6,7 +6,7 @@ tags: ["economia", "luz", "dicas"]
 description: "10 Dicas para Reduzir a Conta de Luz pela Metade"
 
 cover:
-  image: "https://images.pexels.com/photos/33627935/pexels-photo-33627935.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/36507928/pexels-photo-36507928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "10 Dicas para Reduzir a Conta de Luz pela Metade"
   hidden: false
 ---
