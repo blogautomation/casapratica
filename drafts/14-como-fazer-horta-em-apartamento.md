@@ -6,7 +6,7 @@ tags: ["horta", "apartamento", "plantas", "sustentabilidade"]
 description: "Como Fazer uma Horta em Apartamento Mesmo Com Pouco Espaco"
 
 cover:
-  image: "https://images.pexels.com/photos/35590706/pexels-photo-35590706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/5010712/pexels-photo-5010712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Fazer uma Horta em Apartamento Mesmo Com Pouco Espaco"
   hidden: false
 ---
