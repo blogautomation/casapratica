@@ -6,7 +6,7 @@ tags: ["encanamento", "desentupir", "economia", "casa"]
 description: "Como Desentupir Pias, Ralos e Vasos Sem Chamar Encanador"
 
 cover:
-  image: "https://images.pexels.com/photos/220612/pexels-photo-220612.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/6419128/pexels-photo-6419128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Desentupir Pias, Ralos e Vasos Sem Chamar Encanador"
   hidden: false
 ---
