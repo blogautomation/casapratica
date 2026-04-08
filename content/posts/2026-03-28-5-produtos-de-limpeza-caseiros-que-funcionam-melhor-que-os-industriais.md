@@ -6,7 +6,7 @@ tags: ["casa", "organizacao"]
 description: "5 Produtos de Limpeza Caseiros que Funcionam Melhor que os Industriais"
 
 cover:
-  image: "https://images.pexels.com/photos/35245652/pexels-photo-35245652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/32179312/pexels-photo-32179312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "5 Produtos de Limpeza Caseiros que Funcionam Melhor que os Industriais"
   hidden: false
 ---
