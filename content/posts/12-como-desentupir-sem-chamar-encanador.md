@@ -1,6 +1,6 @@
 ---
 title: "Como Desentupir Pias, Ralos e Vasos Sem Chamar Encanador"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-08T16:20:44+00:00
 draft: false
 tags: ["encanamento", "desentupir", "economia", "casa"]
 description: "Como Desentupir Pias, Ralos e Vasos Sem Chamar Encanador"
