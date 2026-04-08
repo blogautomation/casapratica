@@ -6,7 +6,7 @@ tags: ["vinagre", "limpeza", "economia"]
 description: "12 Usos Incriveis do Vinagre na Limpeza da Casa"
 
 cover:
-  image: "https://images.pexels.com/photos/13540119/pexels-photo-13540119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/33118596/pexels-photo-33118596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "12 Usos Incriveis do Vinagre na Limpeza da Casa"
   hidden: false
 ---
