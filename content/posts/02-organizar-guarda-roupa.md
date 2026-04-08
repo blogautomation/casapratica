@@ -5,7 +5,7 @@ draft: false
 tags: ["organizacao", "guarda-roupa", "dicas"]
 description: "Aprenda um metodo pratico e rapido para organizar seu guarda-roupa em apenas 30 minutos e manter a organizacao por semanas"
 cover:
-  image: "https://images.pexels.com/photos/36777983/pexels-photo-36777983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/18725622/pexels-photo-18725622.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Organizar o Guarda-Roupa em 30 Minutos"
   hidden: false
 ---
