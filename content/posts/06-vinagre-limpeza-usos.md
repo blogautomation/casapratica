@@ -5,7 +5,7 @@ draft: false
 tags: ["vinagre", "limpeza", "economia"]
 description: "Descubra 12 formas de usar vinagre branco na limpeza da casa que substituem produtos caros e funcionam de verdade"
 cover:
-  image: "https://images.pexels.com/photos/33118596/pexels-photo-33118596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/11969601/pexels-photo-11969601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "12 Usos Incriveis do Vinagre na Limpeza da Casa"
   hidden: false
 ---
