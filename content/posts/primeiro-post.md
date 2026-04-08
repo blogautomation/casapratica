@@ -6,7 +6,7 @@ tags: ["casapratica"]
 description: "7 Truques Para Sua Casa Ter Cheiro de Limpeza o Dia Todo"
 
 cover:
-  image: "https://images.pexels.com/photos/14846187/pexels-photo-14846187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/20190320/pexels-photo-20190320.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "7 Truques Para Sua Casa Ter Cheiro de Limpeza o Dia Todo"
   hidden: false
 ---
