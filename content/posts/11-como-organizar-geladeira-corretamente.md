@@ -6,7 +6,7 @@ tags: ["geladeira", "organizacao", "alimentos", "cozinha"]
 description: "Como Organizar a Geladeira Corretamente Para Alimentos Durarem Mais"
 
 cover:
-  image: "https://images.pexels.com/photos/19376392/pexels-photo-19376392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/34151117/pexels-photo-34151117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Organizar a Geladeira Corretamente Para Alimentos Durarem Mais"
   hidden: false
 ---
