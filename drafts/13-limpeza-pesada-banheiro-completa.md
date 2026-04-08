@@ -6,7 +6,7 @@ tags: ["limpeza", "banheiro", "higiene", "casa"]
 description: "Guia Completo de Limpeza Pesada do Banheiro: Passo a Passo Detalhado"
 
 cover:
-  image: "https://images.pexels.com/photos/27988032/pexels-photo-27988032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/35624558/pexels-photo-35624558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Guia Completo de Limpeza Pesada do Banheiro: Passo a Passo Detalhado"
   hidden: false
 ---
