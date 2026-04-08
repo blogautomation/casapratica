@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["impermeabilizacao", "infiltracao", "manutencao", "casa"]
 description: "Como Impermeabilizar Areas da Casa e Evitar Infiltracoes"
+
+cover:
+  image: "https://images.pexels.com/photos/36870513/pexels-photo-36870513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Impermeabilizar Areas da Casa e Evitar Infiltracoes"
+  hidden: false
 ---
 
 Infiltracao e um dos problemas mais comuns e mais caros de resolver em casas e apartamentos. A agua que entra deteriora paredes, cria mofo, danifica moveis e compromete a estrutura. A boa noticia e que muitas impermeabilizacoes podem ser feitas por voce mesmo.
