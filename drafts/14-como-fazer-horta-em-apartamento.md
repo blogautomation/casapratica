@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["horta", "apartamento", "plantas", "sustentabilidade"]
 description: "Como Fazer uma Horta em Apartamento Mesmo Com Pouco Espaco"
+
+cover:
+  image: "https://images.pexels.com/photos/36011372/pexels-photo-36011372.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Fazer uma Horta em Apartamento Mesmo Com Pouco Espaco"
+  hidden: false
 ---
 
 Voce nao precisa de quintal para ter ervas e temperos frescos. Uma horta em apartamento cabe na janela, na sacada ou ate na parede. Com poucos materiais e alguns minutos por dia, voce colhe alimentos frescos sem sair de casa.
