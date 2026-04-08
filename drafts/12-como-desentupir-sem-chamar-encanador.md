@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["encanamento", "desentupir", "economia", "casa"]
 description: "Como Desentupir Pias, Ralos e Vasos Sem Chamar Encanador"
+
+cover:
+  image: "https://images.pexels.com/photos/12774460/pexels-photo-12774460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Desentupir Pias, Ralos e Vasos Sem Chamar Encanador"
+  hidden: false
 ---
 
 Pia entupida, ralo lento, vaso que nao da descarga direito. Antes de gastar dinheiro com encanador, tente resolver sozinho. A maioria dos entupimentos caseiros e simples e pode ser resolvida com itens que voce ja tem em casa.
