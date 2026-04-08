@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["limpeza", "banheiro", "higiene", "casa"]
 description: "Guia Completo de Limpeza Pesada do Banheiro: Passo a Passo Detalhado"
+
+cover:
+  image: "https://images.pexels.com/photos/27988032/pexels-photo-27988032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Guia Completo de Limpeza Pesada do Banheiro: Passo a Passo Detalhado"
+  hidden: false
 ---
 
 Limpeza pesada do banheiro e aquela que voce faz uma vez por mes para manter tudo realmente limpo e higienizado. Nao e a mesma coisa que a limpeza rapida semanal. Aqui voce vai atacar rejunte, box, vaso por dentro e todos os cantos que acumulam sujeira.
