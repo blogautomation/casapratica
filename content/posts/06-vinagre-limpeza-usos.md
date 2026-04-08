@@ -4,6 +4,11 @@ date: 2026-04-02T15:38:10+00:00
 draft: false
 tags: ["vinagre", "limpeza", "economia"]
 description: "12 Usos Incriveis do Vinagre na Limpeza da Casa"
+
+cover:
+  image: "https://images.pexels.com/photos/13540119/pexels-photo-13540119.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "12 Usos Incriveis do Vinagre na Limpeza da Casa"
+  hidden: false
 ---
 
 O vinagre branco e um dos produtos mais versateis e baratos para limpeza. Veja 12 formas de usa-lo.
