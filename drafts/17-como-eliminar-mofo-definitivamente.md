@@ -6,7 +6,7 @@ tags: ["mofo", "paredes", "limpeza", "saude"]
 description: "Como Eliminar Mofo Das Paredes e Impedir Que Ele Volte"
 
 cover:
-  image: "https://images.pexels.com/photos/4239101/pexels-photo-4239101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/28576634/pexels-photo-28576634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Eliminar Mofo Das Paredes e Impedir Que Ele Volte"
   hidden: false
 ---
