@@ -4,6 +4,11 @@ date: 2026-03-27T10:00:00-03:00
 draft: false
 tags: ["casapratica"]
 description: "7 Truques Para Sua Casa Ter Cheiro de Limpeza o Dia Todo"
+
+cover:
+  image: "https://images.pexels.com/photos/14846187/pexels-photo-14846187.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "7 Truques Para Sua Casa Ter Cheiro de Limpeza o Dia Todo"
+  hidden: false
 ---
 
 Manter a casa com cheiro agradavel o dia todo nao precisa ser caro nem trabalhoso. Confira 7 truques simples e economicos.
