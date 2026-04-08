@@ -6,7 +6,7 @@ tags: ["roupas", "organizacao", "armario", "espaco"]
 description: "12 Truques Para Guardar Roupas Que Economizam Muito Espaco no Armario"
 
 cover:
-  image: "https://images.pexels.com/photos/36729922/pexels-photo-36729922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/581087/pexels-photo-581087.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "12 Truques Para Guardar Roupas Que Economizam Muito Espaco no Armario"
   hidden: false
 ---
