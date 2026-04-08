@@ -4,6 +4,11 @@ date: 2026-03-29T14:04:26+00:00
 draft: false
 tags: ["organizacao", "guarda-roupa", "dicas"]
 description: "Como Organizar o Guarda-Roupa em 30 Minutos"
+
+cover:
+  image: "https://images.pexels.com/photos/31601966/pexels-photo-31601966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Organizar o Guarda-Roupa em 30 Minutos"
+  hidden: false
 ---
 
 Guarda-roupa baguncado e um problema que afeta a maioria das pessoas. Veja como resolver em apenas 30 minutos.
