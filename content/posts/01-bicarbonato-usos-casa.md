@@ -5,7 +5,7 @@ draft: false
 tags: ["bicarbonato", "limpeza", "economia"]
 description: "Descubra 15 formas praticas e economicas de usar bicarbonato de sodio na limpeza, cozinha e cuidados pessoais"
 cover:
-  image: "https://images.pexels.com/photos/6957827/pexels-photo-6957827.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/6944061/pexels-photo-6944061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "15 Usos do Bicarbonato de Sodio que Voce Nao Conhecia"
   hidden: false
 ---
