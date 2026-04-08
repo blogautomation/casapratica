@@ -6,7 +6,7 @@ tags: ["organizacao", "guarda-roupa", "dicas"]
 description: "Como Organizar o Guarda-Roupa em 30 Minutos"
 
 cover:
-  image: "https://images.pexels.com/photos/31601966/pexels-photo-31601966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/36777983/pexels-photo-36777983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Organizar o Guarda-Roupa em 30 Minutos"
   hidden: false
 ---
