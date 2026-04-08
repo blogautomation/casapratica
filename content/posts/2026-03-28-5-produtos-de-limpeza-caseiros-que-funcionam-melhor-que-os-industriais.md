@@ -5,7 +5,7 @@ draft: false
 tags: ["limpeza", "economia", "casapratica"]
 description: "Aprenda a fazer 5 produtos de limpeza caseiros economicos e eficientes que substituem perfeitamente os industrializados"
 cover:
-  image: "https://images.pexels.com/photos/4239091/pexels-photo-4239091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/10060231/pexels-photo-10060231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Produtos de Limpeza Caseiros"
   hidden: false
 ---
