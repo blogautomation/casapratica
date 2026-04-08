@@ -4,6 +4,11 @@ date: 2026-01-01T00:00:00+00:00
 draft: false
 tags: ["mofo", "paredes", "limpeza", "saude"]
 description: "Como Eliminar Mofo Das Paredes e Impedir Que Ele Volte"
+
+cover:
+  image: "https://images.pexels.com/photos/15697953/pexels-photo-15697953.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Eliminar Mofo Das Paredes e Impedir Que Ele Volte"
+  hidden: false
 ---
 
 Mofo nao e apenas feio. E um problema de saude serio que pode causar alergias, asma, rinite e infeccoes respiratorias. Limpar o mofo visivel nao basta: voce precisa tratar a causa para que ele nao volte sempre.
