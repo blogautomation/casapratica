@@ -5,7 +5,7 @@ draft: false
 tags: ["rotina", "limpeza", "organizacao"]
 description: "Monte uma rotina de limpeza semanal pratica que mantem sua casa impecavel dedicando apenas 20 minutos por dia"
 cover:
-  image: "https://images.pexels.com/photos/29534988/pexels-photo-29534988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/6196567/pexels-photo-6196567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Rotina de Limpeza Semanal"
   hidden: false
 ---
