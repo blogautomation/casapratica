@@ -5,7 +5,7 @@ draft: false
 tags: ["plantas", "ar", "saude"]
 description: "Conheca 8 plantas de interior que purificam o ar da sua casa naturalmente removendo toxinas e melhorando sua saude"
 cover:
-  image: "https://images.pexels.com/photos/8394740/pexels-photo-8394740.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/3076899/pexels-photo-3076899.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "8 Plantas que Purificam o Ar da Sua Casa"
   hidden: false
 ---
