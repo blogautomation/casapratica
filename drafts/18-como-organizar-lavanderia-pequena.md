@@ -6,7 +6,7 @@ tags: ["lavanderia", "organizacao", "espaco pequeno", "casa"]
 description: "Como Organizar Uma Lavanderia Pequena Para Funcionar Perfeitamente"
 
 cover:
-  image: "https://images.pexels.com/photos/4700397/pexels-photo-4700397.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/3935334/pexels-photo-3935334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Organizar Uma Lavanderia Pequena Para Funcionar Perfeitamente"
   hidden: false
 ---
