@@ -4,6 +4,11 @@ date: 2026-04-05T14:05:32+00:00
 draft: false
 tags: ["manchas", "roupas", "limpeza"]
 description: "Guia Definitivo: Como Tirar Qualquer Mancha de Roupa"
+
+cover:
+  image: "https://images.pexels.com/photos/30918013/pexels-photo-30918013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Guia Definitivo: Como Tirar Qualquer Mancha de Roupa"
+  hidden: false
 ---
 
 Cada tipo de mancha precisa de um tratamento diferente. Aqui esta o guia completo.
