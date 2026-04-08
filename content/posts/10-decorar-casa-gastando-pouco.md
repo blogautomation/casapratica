@@ -5,7 +5,7 @@ draft: false
 tags: ["decoracao", "economia", "casa"]
 description: "Aprenda 10 ideias criativas e economicas para decorar sua casa e transformar os ambientes sem gastar muito dinheiro"
 cover:
-  image: "https://images.pexels.com/photos/33607763/pexels-photo-33607763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/1909752/pexels-photo-1909752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Decorar Sua Casa Gastando Quase Nada"
   hidden: false
 ---
