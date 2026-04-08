@@ -4,6 +4,11 @@ date: 2026-04-07T16:15:19+00:00
 draft: false
 tags: ["geladeira", "organizacao", "alimentos", "cozinha"]
 description: "Como Organizar a Geladeira Corretamente Para Alimentos Durarem Mais"
+
+cover:
+  image: "https://images.pexels.com/photos/19376392/pexels-photo-19376392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  alt: "Como Organizar a Geladeira Corretamente Para Alimentos Durarem Mais"
+  hidden: false
 ---
 
 Uma geladeira bem organizada nao e so questao de estetica. Quando os alimentos estao nos lugares corretos, duram mais, voce desperdiça menos comida e ainda economiza dinheiro. Cada prateleira tem uma temperatura diferente e e ideal para tipos especificos de alimento.
