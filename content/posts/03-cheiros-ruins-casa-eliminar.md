@@ -5,7 +5,7 @@ draft: false
 tags: ["cheiros", "limpeza", "casa"]
 description: "Aprenda a eliminar definitivamente os 7 piores cheiros da casa com solucoes caseiras simples e economicas"
 cover:
-  image: "https://images.pexels.com/photos/5816993/pexels-photo-5816993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/6633539/pexels-photo-6633539.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Eliminar os 7 Piores Cheiros da Casa"
   hidden: false
 ---
