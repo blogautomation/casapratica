@@ -6,7 +6,7 @@ tags: ["pintura", "paredes", "reforma", "faca voce mesmo"]
 description: "Como Pintar Uma Parede Sozinho: Guia Completo Para Resultado Profissional"
 
 cover:
-  image: "https://images.pexels.com/photos/33716426/pexels-photo-33716426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/33945101/pexels-photo-33945101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Pintar Uma Parede Sozinho: Guia Completo Para Resultado Profissional"
   hidden: false
 ---
