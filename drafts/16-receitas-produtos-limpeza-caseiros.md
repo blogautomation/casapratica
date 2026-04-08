@@ -6,7 +6,7 @@ tags: ["limpeza", "caseiro", "economia", "sustentavel"]
 description: "5 Receitas de Produtos de Limpeza Caseiros Que Funcionam de Verdade"
 
 cover:
-  image: "https://images.pexels.com/photos/28314398/pexels-photo-28314398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/221172/pexels-photo-221172.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "5 Receitas de Produtos de Limpeza Caseiros Que Funcionam de Verdade"
   hidden: false
 ---
