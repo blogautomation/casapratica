@@ -6,7 +6,7 @@ tags: ["cheiros", "limpeza", "casa"]
 description: "Como Eliminar os 7 Piores Cheiros da Casa"
 
 cover:
-  image: "https://images.pexels.com/photos/34297389/pexels-photo-34297389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/5816993/pexels-photo-5816993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Como Eliminar os 7 Piores Cheiros da Casa"
   hidden: false
 ---
