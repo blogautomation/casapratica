@@ -6,7 +6,7 @@ tags: ["manchas", "roupas", "limpeza"]
 description: "Guia Definitivo: Como Tirar Qualquer Mancha de Roupa"
 
 cover:
-  image: "https://images.pexels.com/photos/30918013/pexels-photo-30918013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  image: "https://images.pexels.com/photos/19627232/pexels-photo-19627232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   alt: "Guia Definitivo: Como Tirar Qualquer Mancha de Roupa"
   hidden: false
 ---
