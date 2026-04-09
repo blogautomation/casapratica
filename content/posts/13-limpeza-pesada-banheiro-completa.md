@@ -1,6 +1,6 @@
 ---
 title: "Guia Completo de Limpeza Pesada do Banheiro: Passo a Passo Detalhado"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-09T16:48:35+00:00
 draft: false
 tags: ["limpeza", "banheiro", "higiene", "casa"]
 description: "Guia Completo de Limpeza Pesada do Banheiro: Passo a Passo Detalhado"
