@@ -1,6 +1,6 @@
 ---
 title: "Como Fazer uma Horta em Apartamento Mesmo Com Pouco Espaco"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-10T14:41:33+00:00
 draft: false
 tags: ["horta", "apartamento", "plantas", "sustentabilidade"]
 description: "Como Fazer uma Horta em Apartamento Mesmo Com Pouco Espaco"
