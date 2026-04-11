@@ -1,6 +1,6 @@
 ---
 title: "Como Pintar Uma Parede Sozinho: Guia Completo Para Resultado Profissional"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-11T14:05:56+00:00
 draft: false
 tags: ["pintura", "paredes", "reforma", "faca voce mesmo"]
 description: "Como Pintar Uma Parede Sozinho: Guia Completo Para Resultado Profissional"
