@@ -1,6 +1,6 @@
 ---
 title: "5 Receitas de Produtos de Limpeza Caseiros Que Funcionam de Verdade"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-12T14:10:27+00:00
 draft: false
 tags: ["limpeza", "caseiro", "economia", "sustentavel"]
 description: "5 Receitas de Produtos de Limpeza Caseiros Que Funcionam de Verdade"
