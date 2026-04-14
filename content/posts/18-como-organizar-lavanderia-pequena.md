@@ -1,6 +1,6 @@
 ---
 title: "Como Organizar Uma Lavanderia Pequena Para Funcionar Perfeitamente"
-date: 2026-01-01T00:00:00+00:00
+date: 2026-04-14T15:56:42+00:00
 draft: false
 tags: ["lavanderia", "organizacao", "espaco pequeno", "casa"]
 description: "Como Organizar Uma Lavanderia Pequena Para Funcionar Perfeitamente"
